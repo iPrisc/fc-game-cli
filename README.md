@@ -1,6 +1,6 @@
 # fc-game client
 
-Hi! this is a command line tool to get info, stats on funcraft server.
+Hello! this is a command line tool to get info, stats on funcraft server.
 This CLI tool is based on the **funcraft-api** npm package.
 
 ## Prerequisite
