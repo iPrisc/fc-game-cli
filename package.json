@@ -1,6 +1,6 @@
 {
   "name": "fc-game-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This package groups a set of CLI utilities relying on the funcract-api package",
   "bin": {
     "fc-game-cli": "./bin/fc-game-cli.js"
