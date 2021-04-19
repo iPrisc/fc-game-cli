@@ -24,11 +24,23 @@ Available commands are :
     *   -g, --game <game> : the game for the ranking
     *   -f, --filename <filename> : the output csv filename.
 
-*   **allstats2csv** : generate csv file containing ranking for a pseudo eventually filtered by period and/or game :
+*   **ranking2json** : generate json file containing ranking for a game and a period
+    options :
+    *   -p, --period <period> : the period for the ranking (format YYYY-MM).
+    *   -g, --game <game> : the game for the ranking
+    *   -f, --filename <filename> : the output json filename.
+
+*   **stats2csv** : generate csv file containing ranking for a pseudo eventually filtered by period and/or game :
     *   -n, --pseudo <pseudo> : the pseudo to get the stats for.
     *   -p, --period [period] : the period to get the stats for.
     *   -g, --game [game] : the game to get the stats for
     *   -f, --filename <filename> : the output csv filename.
+
+*   **stats2json** : generate json file containing ranking for a pseudo eventually filtered by period and/or game :
+    *   -n, --pseudo <pseudo> : the pseudo to get the stats for.
+    *   -p, --period [period] : the period to get the stats for.
+    *   -g, --game [game] : the game to get the stats for
+    *   -f, --filename <filename> : the output json filename.
 
    more commands to come !
 
